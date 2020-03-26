@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mOVIe</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+
+    <string name="title">Judul</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="overview">Deskripsi</string>
+    <string name="rating">Peringkat</string>
+    <string name="setting">Pengaturan</string>
+    <string name="poster_movie">Poster Film</string>
+    <string name="poster_tv_show">Poster Serial TV</string>
+    <string name="poster_detail">Poster Detil</string>
+    <string name="error_msg">Tidak dapat terhubung ke Server</string>
+    <string name="favorites">Lihat favorit Anda</string>
+    <string name="action_add_fav">Tambahkan ke favorit</string>
+    <string name="action_del_fav">Hapus dari favorit</string>
+    <string name="your_favorites">Favorit Anda</string>
+
+</resources>

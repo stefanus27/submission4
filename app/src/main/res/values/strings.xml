@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mOVIe</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+
+    <string name="title">Title</string>
+    <string name="release">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="setting">Setting</string>
+    <string name="poster_movie">Movie Poster</string>
+    <string name="poster_tv_show">TV Show Poster</string>
+    <string name="poster_detail">Poster Detail</string>
+    <string name="error_msg">Cannot connect to Server</string>
+    <string name="favorites">Browse your favorites</string>
+    <string name="action_add_fav">Add to favorites</string>
+    <string name="action_del_fav">Remove from Favorites</string>
+    <string name="your_favorites">Your Favorites</string>
+
+</resources>
